@@ -1,0 +1,5 @@
+{
+  "name": "Copy of UDT - Universal Document Translator",
+  "description": "An AI-powered agent capable of translating documents (PDF, Images, Text) into multiple languages with instant download and sharing capabilities.",
+  "requestFramePermissions": []
+}
